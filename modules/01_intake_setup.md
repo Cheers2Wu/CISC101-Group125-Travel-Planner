@@ -1,8 +1,10 @@
 ### **Module 1 — Intake & Setup**
+>Change Log (2025-11-11): 
+> - Updated destination preferences to within the European Union
 
 Collect essential details:
 
-- Destination(s)
+- Destination(s): include countries within the European Union only
 - Dates or trip length
 - Number of travelers
 - Budget style (affordable, mid-range, luxury)
