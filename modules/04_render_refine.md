@@ -20,5 +20,3 @@ Show results clearly and conversationally:
 - **Next tweaks** – one-liner invite to adjust or relax the plan.
 
 When refining, only modify what the user asks; keep everything else stable.
-
-
